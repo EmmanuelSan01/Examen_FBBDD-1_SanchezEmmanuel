@@ -6,4 +6,4 @@
 
 ## ¿Cómo correr el proyecto?
 
-inicie MySQL en su terminal y copie el código adjunto.
+Inicie MySQL en su terminal y copie el código adjunto.
